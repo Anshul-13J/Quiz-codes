@@ -1,4 +1,5 @@
-/*Find the minimum absolute difference of indexes between 'x' and 'o' in a string consisting only of 'x','.','o'
+'''
+Find the minimum absolute difference of indexes between 'x' and 'o' in a string consisting only of 'x','.','o'
 If no such pair is found return -1.
 
 Example:
@@ -7,7 +8,8 @@ output= 2
 
 input='....xxxx...x'
 output= -1
-*/
+'''
+
 
 def find_ind(string , var):     
     '''
